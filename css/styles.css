@@ -11195,7 +11195,8 @@ p {
 
 #mainNav .navbar-nav .nav-item .nav-link {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 0.95rem;
+    font-size: 12px;
+    font-weight: 700;
     color: #fff;
     letter-spacing: 0.0625em;
 }
@@ -11205,8 +11206,8 @@ p {
     color: #007A33;
     background: #fff;
     border-radius: 0px 10px 0px 10px;
-    font-size: 16px;
-    font-weight: 500;
+    font-size: 12px;
+    font-weight: 700;
     padding: 5px;
 }
 
@@ -11246,12 +11247,15 @@ p {
     }
 }
 
+
+/* linear-gradient(#0f0f0f7d, #0f0f0f7d), */
+
 header.masthead {
     padding-top: 10.5rem;
     padding-bottom: 3rem;
     text-align: center;
     color: #323539;
-    background-image: url("../assets/img/BAckground-home-page-BNDA.jpg");
+    background-image: url("../assets/img/background/SLIDER_BNDA-WESITE.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center top;

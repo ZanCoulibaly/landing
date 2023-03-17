@@ -1,7 +1,20 @@
 .row-image {
     margin-top: 4rem;
-    width: 70%;
     /* padding-right: 5rem; */
+}
+
+.testbtn {
+    background: #007A33;
+    color: #fff;
+    position: absolute;
+    top: 9%;
+}
+
+.testbtn2 {
+    color: #fff;
+    background: #DF1995;
+    position: absolute;
+    top: 9%;
 }
 
 .section-page {
