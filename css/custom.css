@@ -13,8 +13,7 @@
 .testbtn2 {
     color: #fff;
     background: #DF1995;
-    position: absolute;
-    top: 9%;
+    margin-left: 50px;
 }
 
 .section-page {
@@ -22,11 +21,11 @@
 }
 
 .col h2 {
-    color: #48bb78;
+    color: #007A33;
 }
 
 .col b {
-    color: var(--bs-gray-700);
+    color: #007A33;
 }
 
 .create {
@@ -41,4 +40,22 @@
     color: #007A33;
     width: 10px;
     height: 5px;
+}
+
+.card-group {
+    border: none;
+}
+
+.card-img-top {
+    width: 100px;
+    margin-left: 6.25rem;
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #007A33;
+}
+
+.card-text {
+    line-height: 1.2rem;
 }
