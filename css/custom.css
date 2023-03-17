@@ -49,7 +49,12 @@
 .card-img-top {
     width: 100px;
     margin-left: 6.25rem;
-    margin-top: 20px;
+    /* margin-top: 20px; */
+}
+
+h2.section-heading {
+    font-weight: 700;
+    font-size: 18px;
 }
 
 .card-title {
