@@ -1,0 +1,26 @@
+.row-image {
+    margin-top: 4rem;
+    width: 70%;
+}
+
+.col h2 {
+    color: #48bb78;
+}
+
+.col b {
+    color: var(--bs-gray-700);
+}
+
+.create {
+    width: 50px;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    z-index: 2;
+}
+
+.lign {
+    color: #007A33;
+    width: 10px;
+    height: 5px;
+}
