@@ -61,6 +61,10 @@ h2.section-heading {
     color: #007A33;
 }
 
+b {
+    color: #007A33;
+}
+
 .card-text {
     line-height: 1.2rem;
 }
