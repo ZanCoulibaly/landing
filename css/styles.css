@@ -11258,8 +11258,10 @@ header.masthead {
     background-image: url("../assets/img/background/SLIDER_BNDA-WESITE.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
+    width: 100%;
+    height: 100vh;
 }
 
 header.masthead .masthead-heading {
